@@ -21,12 +21,6 @@ cd CimaNow
 
 **Install the dependencies:**
     Ensure you have Rust and Cargo installed. If not, install them from [Rust's official website](https://www.rust-lang.org/tools/install).
-    ```bash
-    cargo build
-    ```
-
-**Install the dependencies:**
-    Ensure you have Rust and Cargo installed. If not, install them from [Rust's official website](https://www.rust-lang.org/tools/install).
 
     ```bash
     cargo build
